@@ -1,4 +1,5 @@
 DB 1차 과제 
+
 ✅ create 조건
 1) At least 3 tables with at least 3 attributes each table
 2) At least 5 tuples each table (at least 2 null values)
