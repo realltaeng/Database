@@ -7,7 +7,7 @@ DB 1차 과제
 4) At least one table is created with the sequence function
 
 ✅ Execute 조건
-1) at least 10 SQLS
+1) at least 10 SQLs
 2) To show all tuples
 3) An SQL statement that shows the effect of foreign key
 4) Join query
